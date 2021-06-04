@@ -45,6 +45,7 @@ function updateView() {
     function loggedInView() {
         View.innerHTML = `
         <div><h1>Du er logget inn!</h1><div>
+        <img src="https://media.giphy.com/media/Wspf0GXgLiyWfjrjDv/source.gif" alt="Hurra gif">
         `
     }
 
